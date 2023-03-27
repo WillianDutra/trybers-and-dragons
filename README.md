@@ -1,13 +1,27 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Trybers and Dragons
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Este projeto visa fixar os aprendizados adquiridos sobre Programação Orientada a Objetos e aos princípios SOLID. 
+
+Com o tema de D&D, usando Typescript e utilizando classes, instâncias, atributos, métodos para construir raças, arquétipos, personagens e monstros.
+
+### Apredizados com este projeto
+
+- Typescript
+- Programação Orientada a Objetos
+- SOLID
+
+
+## Instalação
+
+Caso queira instalar o projeto e dar uma olhada mais de perto.
+
+```bash
+  # Clonando o projeto
+  git clone git@github.com:WillianDutra/trybers-and-dragons.git
+  # Entrando na pasta
+  cd trybers-and-dragons
+  # Instalando as dependências
+  npm install
+```
+    
