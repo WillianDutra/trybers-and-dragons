@@ -5,7 +5,7 @@ Este projeto visa fixar os aprendizados adquiridos sobre Programação Orientada
 
 Com o tema de D&D, usando Typescript e utilizando classes, instâncias, atributos, métodos para construir raças, arquétipos, personagens e monstros.
 
-### Apredizados com este projeto
+## Apredizados com este projeto
 
 - Typescript
 - Programação Orientada a Objetos
